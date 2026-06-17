@@ -1,5 +1,5 @@
 # tetris-ai
-<img width="992" height="1148" alt="img_v3_0212o_d5f2dc84-779f-4c35-a4db-eedb77788c0g" src="https://github.com/user-attachments/assets/7ea2cde3-4345-4af4-9ea7-4429bfb55b9b" />
+<img width="496" height="574" alt="img_v3_0212o_d5f2dc84-779f-4c35-a4db-eedb77788c0g" src="https://github.com/user-attachments/assets/7ea2cde3-4345-4af4-9ea7-4429bfb55b9b" />
 
 
 ### 功能总结
